@@ -73,7 +73,7 @@
   .card {
     background-color: #e3e3e3;
     height: 45vh;
-    width: 90%;
+    width: 90vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -90,6 +90,11 @@
   }
   .card:hover {
     transform: translateY(-5px); /* Add a slight hover effect */
+  }
+  .card-body {
+    overflow: scroll;
+    height: 70vh;
+    width: 90vw;
   }
   .col-md-4 {
     width: 100vw;
