@@ -151,7 +151,7 @@ const Welcome = () => {
                       Description: {material.description}
                     </p>
                     <p className="card-text">
-                      Google Drive Link:{" "}
+                      Link:{" "}
                       <a
                         href={material.link}
                         target="_blank"
