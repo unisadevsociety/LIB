@@ -5,6 +5,7 @@ import "firebase/compat/database";
 import Navbar from "./Nav";
 import "./styles/Welcome.css";
 import Footer from "./Footer";
+import db from "./firebase";
 
 const Welcome = () => {
   const location = useLocation();
