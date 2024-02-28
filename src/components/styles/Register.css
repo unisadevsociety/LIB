@@ -1,0 +1,122 @@
+.registerPagewrap {
+  width: 100vw;
+  height: 100vh;
+  background-color: #e3e3e3;
+}
+.registerwrapcontainer {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fieldofstudydiv {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+.fieldofstudydivdropdown {
+  width: 25vw;
+  height: 3vh;
+}
+.radiobuttonTcs {
+  width: 1.1vw;
+}
+.ckeckboxfortcsandcsdiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.checkboxtctext {
+  font-size: 1rem;
+  margin-right: 5vw;
+}
+.registerpageform {
+  margin-top: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.nameTag {
+  margin-top: 1.5vh;
+}
+.registerpagetext {
+  margin-top: 15vh;
+}
+.registerpageButton {
+  width: 25vw;
+  height: 5vh;
+  background-color: #f39a34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border-radius: 2vw;
+}
+.Logintexttext {
+  color: blue;
+}
+
+@media (max-width: 767px) {
+  .registerPagewrap {
+    width: 100vw;
+    height: 100vh;
+    background-color: #e3e3e3;
+  }
+  .registerwrapcontainer {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .fieldofstudydiv {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0vh;
+    margin-bottom: 0vh;
+  }
+  .fieldofstudydivdropdown {
+    width: 60vw;
+  }
+  .radiobuttonTcs {
+    width: 5vw;
+  }
+  .ckeckboxfortcsandcsdiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+  }
+  .checkboxtctext {
+    font-size: 0.8rem;
+    margin-right: 5vw;
+  }
+  .registerpageform {
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .nameTag {
+    margin-top: 1.5vh;
+  }
+  .registerpagetext {
+    margin-top: 15vh;
+  }
+  .registerpageButton {
+    width: 25vw;
+    height: 5vh;
+    background-color: #f39a34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border-radius: 2vw;
+  }
+}

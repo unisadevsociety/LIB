@@ -1,0 +1,28 @@
+UNISADEVSOCEITY EXCLUSIVE LICENSE
+
+This agreement grants Unisadevsociety the exclusive right to use, modify, distribute, and sublicense the software and its associated documentation, herein referred to as the "Software".
+
+TERMS AND CONDITIONS:
+
+1. GRANT OF LICENSE: Unisadevsociety is granted an exclusive, worldwide, royalty-free, perpetual license to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+2. MODIFICATIONS: Unisadevsociety may make modifications to the Software for its own purposes. Unisadevsociety may distribute these modifications under the terms of this license.
+
+3. REDISTRIBUTION: Unisadevsociety may redistribute copies of the Software in binary or source code form, provided that the above copyright notice, this list of conditions, and the following disclaimer are retained in all copies.
+
+4. DISCLAIMER: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. EXCLUSIVE USE: This license is exclusive to Unisadevsociety. No other individual, entity, or organization may exercise the rights granted under this license.
+
+6. TERMINATION: This license automatically terminates if Unisadevsociety violates any of the terms and conditions outlined herein.
+
+7. APPLICABLE LAW: This license shall be governed by and construed in accordance with the laws of [Insert Jurisdiction]. Any dispute arising under or in connection with this license shall be subject to the exclusive jurisdiction of the courts of [Insert Jurisdiction].
+
+This License is effective as of the date of acceptance by Unisadevsociety.
+
+ACCEPTED AND AGREED BY UNISADEVSOCEITY:
+
+[Signature] ____ES.M___________________
+[President] Unisadevsociety
+
+Date: ____________25/02/24________________

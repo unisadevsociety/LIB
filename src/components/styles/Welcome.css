@@ -1,0 +1,138 @@
+.welcomecontainer {
+  width: 100vw;
+  background-color: #e3e3e3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card {
+  background-color: #e3e3e3;
+  height: 45vh;
+  width: 90%;
+
+  background-color: rgba(255, 255, 255, 0.2); /* Transparent white background */
+
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px); /* Add a slight hover effect */
+}
+.col-md-4 {
+  width: 100vw;
+}
+.sharingtextwelcomepage {
+  margin-left: 2vw;
+  margin-right: 2vw;
+  text-align: center;
+}
+.addmaterialbuttondiv {
+  width: 10vw;
+  height: 5vh;
+  background-color: #f39a34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border-radius: 2vw;
+}
+.btnbtnbottom {
+  margin-bottom: 2vh;
+  width: 10vw;
+  height: 5vh;
+  background-color: #f39a34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border-radius: 2vw;
+}
+.filterqulifictaion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.materialstexttop {
+  margin-top: 3vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 767px) {
+  .welcomecontainer {
+    width: 100vw;
+    background-color: #e3e3e3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .card {
+    background-color: #e3e3e3;
+    height: 45vh;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(
+      255,
+      255,
+      255,
+      0.2
+    ); /* Transparent white background */
+
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+    transition: transform 0.3s ease;
+  }
+  .card:hover {
+    transform: translateY(-5px); /* Add a slight hover effect */
+  }
+  .col-md-4 {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .sharingtextwelcomepage {
+    margin-left: 2vw;
+    margin-right: 2vw;
+    text-align: center;
+  }
+  .addmaterialbuttondiv {
+    width: 30vw;
+    height: 5vh;
+    background-color: #f39a34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border-radius: 2vw;
+  }
+  .btnbtnbottom {
+    margin-bottom: 2vh;
+    width: 30vw;
+    height: 5vh;
+    background-color: #f39a34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border-radius: 2vw;
+  }
+  .filterqulifictaion {
+    display: none;
+  }
+  .materialstexttop {
+    margin-top: 3vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

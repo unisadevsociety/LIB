@@ -1,0 +1,144 @@
+.emailCheckcontainer {
+  width: 100vw;
+  height: 100vh;
+  background-color: #e3e3e3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.middleContainer {
+  margin-top: 0vh;
+  /* background-color: black; */
+  width: 45vw;
+  height: 45vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.registerBut {
+  width: 7vw;
+}
+.nameTag {
+  margin-top: 2vh;
+}
+input {
+  width: 25vw;
+  height: 5vh;
+  text-align: center;
+  border-radius: 1vw;
+}
+.formdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.formFormdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.loginformbutton {
+  width: 10vw;
+  height: 5vh;
+  background-color: #f39a34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border-radius: 1vw;
+}
+button {
+  background-color: transparent;
+  border: none;
+  font-size: 1.3rem;
+  color: black;
+}
+.regiasterbuttonform {
+  width: 8vw;
+  height: 5vh;
+  background-color: #b12935;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1vh;
+
+  border-radius: 2vw;
+}
+
+@media (max-width: 767px) {
+  .middleContainer {
+    margin-top: 0vh;
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 25vh;
+  }
+  .registerBut {
+    width: 20vw;
+  }
+  .nameTag {
+    margin-top: 1.5vh;
+  }
+  input {
+    width: 60vw;
+    height: 5vh;
+    text-align: center;
+    border-radius: 3vw;
+  }
+  .formdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vh;
+  }
+  .formFormdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -8vh;
+  }
+  .loginformbutton {
+    width: 25vw;
+    height: 5vh;
+    background-color: #f39a34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border-radius: 2vw;
+  }
+  button {
+    background-color: transparent;
+    border: none;
+    font-size: 1.3rem;
+    color: black;
+  }
+  .regiasterbuttonform {
+    width: 25vw;
+    height: 5vh;
+    background-color: #b12935;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 2vw;
+  }
+  .usdicon {
+    width: 10vw;
+    height: auto;
+  }
+}

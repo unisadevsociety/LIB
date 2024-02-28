@@ -1,0 +1,25 @@
+.usdicon {
+  width: 1.5vw;
+}
+.black-text {
+  color: white;
+}
+.notnotaffliated {
+  color: white;
+  font-size: 0.6rem;
+}
+@media (max-width: 767px) {
+  .usdicon {
+    width: 8vw;
+  }
+  .black-text {
+    color: white;
+    font-size: 0.9rem;
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+  .notnotaffliated {
+    color: white;
+    font-size: 0.6rem;
+  }
+}

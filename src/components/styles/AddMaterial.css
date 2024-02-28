@@ -1,0 +1,143 @@
+.addmaterialcontainer {
+  width: 100vw;
+  height: 100vh;
+  background-color: #e3e3e3;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.addmaterialtoptext {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+.qulificationdiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.selectqulificationtab {
+  width: 20vw;
+  height: 5vh;
+  margin-bottom: 2vh;
+}
+.nameTag {
+  margin-top: 2vh;
+}
+.yeardivaddmaterial {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 100%;
+  display: flex;
+
+  justify-content: center;
+}
+.yearlabeladdmaterial {
+  margin-right: 1.5vw;
+}
+.textareaaddmaterial {
+  width: 30vw;
+  height: 12vh;
+}
+.submitbuttonaddmateril {
+  width: 9vw;
+  height: 5vh;
+  background-color: #f39a34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  border-radius: 2vw;
+}
+.fixbuttondiv {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.formfromaddmaterial {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.gotomaterialbutton {
+  width: 10vw;
+  height: 5vh;
+  background-color: #b12935;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 2vw;
+}
+@media (max-width: 767px) {
+  .addmaterialcontainer {
+    width: 100vw;
+    height: 100vh;
+    background-color: #e3e3e3;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .addmaterialtoptext {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+  }
+  .qulificationdiv {
+    display: flex;
+    flex-direction: column;
+  }
+  .selectqulificationtab {
+    width: 60vw;
+    height: 5vh;
+    margin-bottom: 2vh;
+  }
+  .nameTag {
+    margin-top: 1.5vh;
+  }
+  .yeardivaddmaterial {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    width: 100%;
+    display: flex;
+
+    justify-content: center;
+  }
+  .yearlabeladdmaterial {
+    margin-right: 1.5vw;
+  }
+  .textareaaddmaterial {
+    width: 60vw;
+    height: 12vh;
+  }
+  .submitbuttonaddmateril {
+    width: 25vw;
+    height: 5vh;
+    background-color: #f39a34;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border-radius: 2vw;
+  }
+  .fixbuttondiv {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .gotomaterialbutton {
+    width: 33vw;
+    height: 5vh;
+    background-color: #b12935;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 2vw;
+  }
+}
