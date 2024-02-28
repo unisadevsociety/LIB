@@ -80,7 +80,7 @@ const Welcome = () => {
       <Navbar />
       <div className="welcomecontainer">
         <h2>
-          Hi, {name} {surname}
+          Hi {name} {surname}
         </h2>
         <p className="sharingtextwelcomepage">
           Sharing educational content can significantly enhance the learning
