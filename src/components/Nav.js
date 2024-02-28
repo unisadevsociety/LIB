@@ -32,7 +32,7 @@ function MyNavbar() {
           <Nav>
             <Nav.Link
               as={Link}
-              to="addwhatsapplinkhere"
+              to="https://chat.whatsapp.com/KHqV67GD14W6tTQAbMJ08u"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -40,7 +40,7 @@ function MyNavbar() {
             </Nav.Link>
             <Nav.Link
               as={Link}
-              to="addinstalink"
+              to="https://www.instagram.com/invites/contact/?i=1jv0y69hgenlh&utm_content=twz8c62"
               target="_blank"
               rel="noopener noreferrer"
             >
