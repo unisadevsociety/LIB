@@ -10,7 +10,7 @@ import "./index.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename="/LIB">
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/welcome" element={<Welcome />} />
