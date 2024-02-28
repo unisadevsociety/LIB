@@ -20,6 +20,9 @@
 }
 .registerBut {
   width: 7vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .nameTag {
   margin-top: 2vh;

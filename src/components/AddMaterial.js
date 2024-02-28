@@ -163,19 +163,21 @@ function AddMaterial() {
             />
           </div>
           {errorMessage && <p style={{ color: "red" }}>{errorMessage}</p>}
-          <div className="fixbuttondiv">
-            <div className="submitbuttonaddmateril">
-              <button type="button" onClick={handleSubmit}>
-                Submit
-              </button>
-            </div>
+          <div className="fixbuttondiv buttonunderlinedtext">
+            <button type="button" onClick={handleSubmit}>
+              <div className="submitbuttonaddmateril">Submit</div>
+            </button>
           </div>
         </form>
 
         {/* Button to navigate to materials */}
-        <div className="gotomaterialbutton">
-          <button onClick={() => navigate("/welcome")}>Go to Materials</button>
-        </div>
+
+        <button
+          onClick={() => navigate("/welcome")}
+          className="buttonunderlinedtext"
+        >
+          <div className="gotomaterialbutton">Go to Materials</div>
+        </button>
       </div>
       <Footer />
     </div>

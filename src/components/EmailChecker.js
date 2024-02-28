@@ -120,18 +120,21 @@ const EmailChecker = () => {
                 />
               </div>
               {error && <p style={{ color: "red" }}>{error}</p>}
-              <div className="loginformbutton">
-                <button type="submit" disabled={error}>
+
+              <button type="submit" disabled={error}>
+                <div className="loginformbutton buttonunderlinedtext">
                   LogIn
-                </button>
-              </div>
+                </div>
+              </button>
             </form>
             <div>OR</div>
-            <div className="regiasterbuttonform">
-              <button onClick={handleRegisterClick} className="registerBut">
-                Register
-              </button>
-            </div>
+
+            <button
+              onClick={handleRegisterClick}
+              className="registerBut buttonunderlinedtext"
+            >
+              <div className="regiasterbuttonform">Register</div>
+            </button>
           </div>
         </div>
       </div>

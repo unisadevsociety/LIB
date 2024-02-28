@@ -87,11 +87,11 @@ const Welcome = () => {
           experience, providing valuable resources and support for students on
           their academic journey.
         </p>
-        <div className="addmaterialbuttondiv">
-          <Link to="/add-material">
+        <Link to="/add-material" className="buttonunderlinedtext">
+          <div className="addmaterialbuttondiv">
             <button>Add Material</button>
-          </Link>
-        </div>
+          </div>
+        </Link>
         <div className="mb-3 filterqulifictaion">
           <label htmlFor="qualificationFilter" className="form-label">
             Filter by Qualification:
@@ -175,11 +175,11 @@ const Welcome = () => {
             ))}
           </div>
         </div>
-        <div className="btnbtnbottom">
-          <Link to="/add-material">
-            <button>Add Material</button>
-          </Link>
-        </div>
+        <Link to="/add-material" className="buttonunderlinedtext">
+          <div className="btnbtnbottom">
+            <button className="">Add Material</button>
+          </div>
+        </Link>
       </div>
       <Footer />
     </div>
