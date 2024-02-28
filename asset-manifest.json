@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LIB/static/css/main.d1e69f6f.css",
+    "main.js": "/LIB/static/js/main.0a6d9098.js",
+    "static/media/usd_only.png": "/LIB/static/media/usd_only.0b31980231526c438913.png",
+    "index.html": "/LIB/index.html",
+    "main.d1e69f6f.css.map": "/LIB/static/css/main.d1e69f6f.css.map",
+    "main.0a6d9098.js.map": "/LIB/static/js/main.0a6d9098.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1e69f6f.css",
+    "static/js/main.0a6d9098.js"
+  ]
+}
