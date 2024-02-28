@@ -88,7 +88,7 @@ button {
     margin-top: 25vh;
   }
   .registerBut {
-    width: 20vw;
+    width: 30vw;
   }
   .nameTag {
     margin-top: 1.5vh;
@@ -131,7 +131,7 @@ button {
     color: black;
   }
   .regiasterbuttonform {
-    width: 25vw;
+    width: 30vw;
     height: 5vh;
     background-color: #b12935;
     display: flex;

@@ -4,6 +4,7 @@ import Welcome from "./components/Welcome";
 import Register from "./components/Register";
 import AddMaterial from "./components/AddMaterial";
 import db from "./components/firebase";
+import "./App.css";
 
 function App() {
   const [step, setStep] = useState(1); // State to track the current step
